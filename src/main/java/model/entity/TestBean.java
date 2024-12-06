@@ -1,10 +1,11 @@
-package model;
+package model.entity;
 
-public class test {
+public class TestBean {
 
 	public static void main(String[] args) {
 		
-aaa
+		
+		
 	}
 
 }
